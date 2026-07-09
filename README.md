@@ -88,4 +88,3 @@ docs(database): tambah ERD
 8. Pengembangan fitur
 
 Lihat `/docs` untuk dokumentasi tiap fitur (tujuan, cara kerja, struktur database, endpoint, request/response, validasi, dan error).
-test
